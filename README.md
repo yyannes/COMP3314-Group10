@@ -3,7 +3,7 @@
 ## Introduction
 This repository is for the code sharing of COMP3314 group project.
 
-The codes are implemented based on the reference https://www.kaggle.com/code/mubtasimahasan/cifar10-with-cnn-and-googlenet, which has been released under the Apache 2.0 license. 
+The codes are implemented based on the reference https://www.kaggle.com/code/mubtasimahasan/cifar10-with-cnn-and-googlenet, which has been released under the Apache 2.0 license, and https://github.com/gauriprdhn/Introduction-to-Video-Data-Analysis-using-CNNs, which has been released under the MIT License. 
 
 ## The paper details
 Title: An Analysis Of Convolutional Neural Networks For Image Classification
